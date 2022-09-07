@@ -1,9 +1,9 @@
 # FL-project
 
 ## Dependencies:
-Tensorflow 2.3.0 
-Tensorflow-Privacy 0.5.2  
-Tensorflow-Federated 0.17.0
+Tensorflow 2.3.0 <br>
+Tensorflow-Privacy 0.5.2 <br>
+Tensorflow-Federated 0.17.0  <br>
 
 ## Introduction
 The model is based on tensorflow_federated and tensorflow_privacy frameworks. There are two parties and a central server in this program. There are two parts of codes: train.py and predict.py for training and predicting process respectively. There are two dataset files (party_1.csv, party_2.csv) in the “Dataset” directory that contain the training data for two parties. The structure of the network is shown
